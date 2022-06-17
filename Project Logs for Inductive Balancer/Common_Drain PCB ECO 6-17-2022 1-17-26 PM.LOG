@@ -1,0 +1,12 @@
+Change DesignItemId: Component "L1" not found
+Change Component Footprint: Designator=C1 Old Footprint=C0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C2 Old Footprint=C0805 New Footprint=RAD-0.3
+Change Component Comment : Designator=TP2 Old Comment= New Comment=Testpoint
+Change Comment: Unknown Component : L1
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Description: Unknown Component : L1
+Change Library: Component "L1" not found
+Change component parameters: Component "L1" not found
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C5 Cap
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C6 Cap

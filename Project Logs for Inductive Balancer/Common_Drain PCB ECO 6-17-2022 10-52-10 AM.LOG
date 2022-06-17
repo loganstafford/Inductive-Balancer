@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=b0 Pin=Q1-1
+Removed Pin From Net: NetName=gates Pin=Q1-2
+Removed Pin From Net: NetName=NetL1_1 Pin=Q1-3
+Removed Pin From Net: NetName=b2 Pin=Q2-1
+Removed Pin From Net: NetName=gates Pin=Q2-2
+Removed Pin From Net: NetName=NetL1_1 Pin=Q2-3
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=MOSFET-N New DesignItemId=NMOS
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=MOSFET-P New DesignItemId=PMOS
+Change Component Footprint: Designator=Q2 Old Footprint=E3 New Footprint=NMOS
+Change Component Footprint: Designator=Q1 Old Footprint=E3 New Footprint=PMOS
+Change Component Comment : Designator=Q2 Old Comment=MOSFET-N New Comment=NMOS
+Change Component Comment : Designator=Q1 Old Comment=MOSFET-P New Comment=PMOS
+Change Component Description : Designator=Q2 Old Description=N-Channel MOSFET New Description=
+Change Component Description : Designator=Q1 Old Description=P-Channel MOSFET New Description=
+Change Component Library : Designator=Q2 Old Library=Miscellaneous Devices.IntLib New Library=NMOS.SchLib
+Change Component Library : Designator=Q1 Old Library=Miscellaneous Devices.IntLib New Library=PMOS.SchLib
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "E3"; UniqueID = "\XYCMOXYY" ("\XYCMOXYY")
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "E3"; UniqueID = "\CESNDXFS" ("\CESNDXFS")
+Added Pin To Net: NetName=b0 Pin=Q1-D
+Added Pin To Net: NetName=gates Pin=Q1-G
+Added Pin To Net: NetName=NetL1_1 Pin=Q1-S
+Added Pin To Net: NetName=b2 Pin=Q2-D
+Added Pin To Net: NetName=gates Pin=Q2-G
+Added Pin To Net: NetName=NetL1_1 Pin=Q2-S
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C1 Cap
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C2 Cap

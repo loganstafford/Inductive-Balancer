@@ -1,0 +1,33 @@
+Replace Part b0 Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part b1 Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part b2 Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part C1 C_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with C_0805 from C_0805.SchLib
+Replace Part C2 C_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with C_0805 from C_0805.SchLib
+Replace Part C3 C_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with C_0805 from C_0805.SchLib
+Replace Part C4 C_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with C_0805 from C_0805.SchLib
+Replace Part C5 Cap in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C6 Cap in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C10 C_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with C_0805 from C_0805.SchLib
+Replace Part D1 TS4148 RXG in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with TS4148 RXG from TS4148 RXG.SchLib
+Replace Part gd+ Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part gd- Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part GND Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part GND2 Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part GND3 Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part GND4 Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part L1 General Inductor-Symbol-1 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with General Inductor-Symbol-1 from General_Inductor.SchLib
+Replace Part LED1 XZMDKVG55W-7 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with XZMDKVG55W-7 from XZMDKVG55W-7.SchLib
+Replace Part oa+ Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part oa- Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part pwm Connector in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Connector from connector.SchLib
+Replace Part Q1 PMOS in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with PMOS from PMOS.SchLib
+Replace Part Q2 NMOS in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with NMOS from NMOS.SchLib
+Replace Part R5 R_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with R_0805 from R_0805.SchLib
+Replace Part R6 R_1206/2512 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with R_1206/2512 from R_1206_2512.SchLib
+Replace Part R7 R_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with R_0805 from R_0805.SchLib
+Replace Part R8 R_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with R_0805 from R_0805.SchLib
+Replace Part R9 R_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with R_0805 from R_0805.SchLib
+Replace Part R10 R_0805 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with R_0805 from R_0805.SchLib
+Replace Part TP2 Testpoint in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with Testpoint from testpoint.SchLib
+Replace Part U1 TLP5774 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with TLP5774 from TLP5774.SchLib
+Replace Part U2 OPA2197 in C:\Users\Public\Documents\Altium\Inductive-Balancer\Common_Drain_Inductor_Balancer.SchDoc with OPA2197 from OPA2197.SchLib

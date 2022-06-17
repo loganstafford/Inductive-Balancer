@@ -1,0 +1,6 @@
+Added Component: Designator=L1(Inductor_v1)
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=b1 Pin=L1-2
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C1 C_0805
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C2 C_0805
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component L1 General Inductor

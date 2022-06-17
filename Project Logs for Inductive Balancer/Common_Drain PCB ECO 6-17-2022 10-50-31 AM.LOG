@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=2220
+Change Footprint: Cannot match pads with new footprint in component :Q2 Footprint:NMOS2
+Change Footprint: Cannot match pads with new footprint in component :Q1 Footprint:PMOS
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=C0805
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C1 Cap
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component C2 Cap

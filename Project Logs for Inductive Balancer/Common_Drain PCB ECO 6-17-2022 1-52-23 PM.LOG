@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC2012X14N New Footprint=CAPC2012X14N
+Change Physical Footprint: Designator=C10 Old Footprint=CAPC2012X14N New Footprint=CAPC2012X14N
+Change Physical Footprint: Designator=L1 Old Footprint=Inductor_v1 New Footprint=Inductor_v1
+Change Physical Footprint: Designator=R6 Old Footprint=RESC6331X06N New Footprint=RESC6331X06N
+Change Physical Footprint: Designator=U1 Old Footprint=SOIC127P1000X220-6N New Footprint=SOIC127P1000X220-6N

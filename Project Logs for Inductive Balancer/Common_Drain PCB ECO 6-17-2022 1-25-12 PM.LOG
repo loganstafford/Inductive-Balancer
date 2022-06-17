@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=TP2-1
+Added Component: Designator=TP2(testpoint)
+Added Pin To Net: NetName=NetLED1_1 Pin=TP2-1

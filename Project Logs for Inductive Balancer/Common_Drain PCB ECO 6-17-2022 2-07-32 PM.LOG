@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap New DesignItemId=C_0805
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap New DesignItemId=C_0805
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=CAPC2012X14N
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.3 New Footprint=CAPC2012X14N
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=C_0805
+Change Component Comment : Designator=C6 Old Comment=Cap New Comment=C_0805
+Change Component Description : Designator=C5 Old Description=Capacitor New Description=
+Change Component Description : Designator=C6 Old Description=Capacitor New Description=
+Change Component Library : Designator=C5 Old Library=Miscellaneous Devices.IntLib New Library=C_0805.SchLib
+Change Component Library : Designator=C6 Old Library=Miscellaneous Devices.IntLib New Library=C_0805.SchLib
+Change component parameters: Designator = "C5" ("C5"); Footprint = "RAD-0.3"; UniqueID = "\GRAFIPII" ("\GRAFIPII")
+Change component parameters: Designator = "C6" ("C6"); Footprint = "RAD-0.3"; UniqueID = "\VVBFBNEW" ("\VVBFBNEW")
