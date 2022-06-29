@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Altium_GithHub\Inductive-Balancer\Common_Drain.PcbDoc
+Date     : 6/28/2022
+Time     : 5:50:57 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 6mil) Between Pad Free-1(125mil,125mil) on Multi-Layer And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 6mil) Between Pad Free-1(125mil,2375mil) on Multi-Layer And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 6mil) Between Pad Free-1(1875mil,125mil) on Multi-Layer And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 6mil) Between Pad Free-1(1875mil,2375mil) on Multi-Layer And Region (0 hole(s)) Keep-Out Layer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=10mil) (Conductor Width=8mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=16mil) (Max=251mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (8.547mil < 10mil) Between Pad C10-1(1380mil,1283.724mil) on Top Layer And Text "U2" (1233.016mil,1217.01mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.547mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad C2-1(1528mil,737mil) on Top Layer And Text "R5" (1403.016mil,732.01mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.966mil < 10mil) Between Pad C2-2(1528mil,827.552mil) on Top Layer And Text "R5" (1403.016mil,732.01mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.966mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad D1-2(453mil,799.516mil) on Top Layer And Text "TP2" (455.026mil,801.01mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad gd--1(610mil,1930mil) on Top Layer And Text "C4" (556.016mil,1777.285mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.246mil < 10mil) Between Pad R9-1(1240.678mil,562mil) on Top Layer And Text "GND4" (990.036mil,502.01mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.246mil]
+Rule Violations :6
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "TP2" (455.026mil,801.01mil) on Top Overlay And Track (486.464mil,846.76mil)(486.464mil,878.256mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 11
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02

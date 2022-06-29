@@ -1,0 +1,93 @@
+Added Component: Designator=b0(connector_large)
+Added Component: Designator=b1(connector_large)
+Added Component: Designator=b2(connector_large)
+Added Component: Designator=C1(CAPC2012X14N)
+Added Component: Designator=C2(CAPC2012X14N)
+Added Component: Designator=C3(CAPC2012X14N)
+Added Component: Designator=C4(CAPC2012X14N)
+Added Component: Designator=C5(cap_by)
+Added Component: Designator=C6(cap_by)
+Added Component: Designator=C10(CAPC2012X14N)
+Added Component: Designator=D1(DIOC3215X08N)
+Added Component: Designator=gd+(connector_large)
+Added Component: Designator=gd-(connector_large)
+Added Component: Designator=GND2(connector_large)
+Added Component: Designator=GND3(connector_large)
+Added Component: Designator=GND4(connector_large)
+Added Component: Designator=GND(connector_large)
+Add Component: Footprint Not Found Inductor_v1
+Added Component: Designator=LED1(DIOC3216X18N)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Matt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.sunledusa.com/products/spec/XZMDKVG55W-4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XZMDKVG55W-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "SunLED_2020-06-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "SunLED"; VariantName = "[No Variations]"
+Added Component: Designator=oa+(connector_large)
+Added Component: Designator=oa-(connector_large)
+Added Component: Designator=pwm(connector_large)
+Added Component: Designator=Q1(PMOS)
+Added Component: Designator=Q2(NMOS)
+Added Component: Designator=R5(RESC2012X06N)
+Added Component: Designator=R6(RESC6331X06N)
+Added Component: Designator=R7(RESC2012X06N)
+Added Component: Designator=R8(RESC2012X06N)
+Added Component: Designator=R9(RESC2012X06N)
+Added Component: Designator=R10(RESC2012X06N)
+Added Component: Designator=TP2(testpoint)
+Added Component: Designator=U1(SOIC127P1000X220-6N)
+Added Component: Designator=U2(SOIC127P600X175-8N)
+Added Pin To Net: NetName=b0 Pin=b0-1
+Added Pin To Net: NetName=b1 Pin=b1-1
+Added Pin To Net: NetName=b2 Pin=b2-1
+Added Pin To Net: NetName=oa+ Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=oa- Pin=C2-2
+Added Pin To Net: NetName=gd+ Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=gd- Pin=C4-2
+Added Pin To Net: NetName=b1 Pin=C5-1
+Added Pin To Net: NetName=b0 Pin=C5-2
+Added Pin To Net: NetName=b2 Pin=C6-1
+Added Pin To Net: NetName=b1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=gd+ Pin=gd+-1
+Added Pin To Net: NetName=gd- Pin=gd--1
+Added Pin To Net: NetName=GND Pin=GND2-1
+Added Pin To Net: NetName=GND Pin=GND3-1
+Added Pin To Net: NetName=GND Pin=GND4-1
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=oa+ Pin=oa+-1
+Added Pin To Net: NetName=oa- Pin=oa--1
+Added Pin To Net: NetName=pwm Pin=pwm-1
+Added Pin To Net: NetName=b0 Pin=Q1-D
+Added Pin To Net: NetName=gates Pin=Q1-G
+Added Pin To Net: NetName=b2 Pin=Q2-D
+Added Pin To Net: NetName=gates Pin=Q2-G
+Added Pin To Net: NetName=gates Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=pwm Pin=R10-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=gd- Pin=U1-4
+Added Pin To Net: NetName=gd+ Pin=U1-6
+Added Pin To Net: NetName=oa- Pin=U2-4
+Added Pin To Net: NetName=pwm Pin=U2-5
+Added Pin To Net: NetName=oa+ Pin=U2-8
+Add Net: Net with name "NetC10_1" already exists
+Add Net: Net with name "NetD1_1" already exists
+Add Net: Net with name "NetL1_1" already exists
+Add Net: Net with name "NetLED1_1" already exists
+Add Net: Net with name "NetR5_1" already exists
+Add Net: Net with name "NetR6_1" already exists
+Add Net: Net with name "NetR7_1" already exists
+Add Net: Net with name "NetR8_2" already exists
+Added Class: Name=Common_Source_Inductor_Balancer
+Added Member To Class: ClassName=Common_Drain_Inductor_Balancer Member=Component LED1 XZMDKVG55W-7
+Added Room: Name=Common_Source_Inductor_Balancer
