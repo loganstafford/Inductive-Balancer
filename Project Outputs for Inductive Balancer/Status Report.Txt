@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Inductive Balancer.PrjPcb]
+   Generated File[Common_Drain_Copper_Signal_Top.gbr]
+   Generated File[Common_Drain_Copper_Signal_Bot.gbr]
+   Generated File[Common_Drain_Pads_Bot.gbr]
+   Generated File[Common_Drain_Pads_Top.gbr]
+   Generated File[Common_Drain_Legend_Bot.gbr]
+   Generated File[Common_Drain_Soldermask_Bot.gbr]
+   Generated File[Common_Drain_Paste_Bot.gbr]
+   Generated File[Common_Drain_Legend_Top.gbr]
+   Generated File[Common_Drain_Paste_Top.gbr]
+   Generated File[Common_Drain_Soldermask_Top.gbr]
+   Generated File[Common_Drain_Keep-out.gbr]
+   Generated File[Common_Drain_Board.gbr]
+   Generated File[Common_Drain_Profile.gbr]
+   Generated File[Common_Drain_NPTH_Drill.gbr]
+   Generated File[Common_Drain_PTH_Drill.gbr]
+   Generated File[Common_Drain_Drawing_1.gbr]
+   Generated File[Common_Drain_Drillmap_1.gbr]
+   Generated File[Common_Drain.RUL]
+   Generated File[Common_Drain.EXTREP]
+   Generated File[Common_Drain.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 3:23:33 PM On 7/6/2022
